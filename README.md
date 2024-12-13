@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shoumyasingh
-- 👀 I’m interested in Software Development, front-end, Full Stack, Machine Learning, and Artificial Intelligence.
-- 🌱 I’m currently learning Software Fullstack development and  Algorithms and Data structures.
-- 👩🏼‍💻  I code in HTML, CSS, Javascript, Python, and Java.
+- 👀 I’m interested in Software Development, Full Stack, Front-End, Machine Learning, and Artificial Intelligence.
+- 🌱 I’m proficient in Software Fullstack development and Algorithms and Data structures.
+- 👩🏼‍💻  I code in Javascript, Python, and Java.
 - 📫 How to reach me shoumya.singh@icloud.com 
 
 <!---
